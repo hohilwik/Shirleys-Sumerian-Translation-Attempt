@@ -1,4 +1,4 @@
-# Shirleys-Sumerian-Translation-Attempt
+# Shirley's Sumerian Translation Attempt
 The Sumerian Translation Attempt: to collate all existing corpuses and train a model sufficiently competent at Sumerian-English translation. 
 
 - currently collating and parsing existing corpuses in order to create a singular database. Not yet started on creating the translation pipeline
