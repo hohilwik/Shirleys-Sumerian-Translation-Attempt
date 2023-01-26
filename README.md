@@ -8,6 +8,10 @@ The Sumerian Translation Attempt: to collate all existing corpuses and train a m
 - there have only been two attempts so far in the literature for machine translation of Sumerian and the results have not been promising
 - old school solutions like Moses and rule-based grammar dictionary-based parsing should work
 
+# Datasets
+- ETCSL: 36003 Sumerian-English sentence pairs
+- CDLI: 112612 tablets, 1.4 million lines
+
 # Pipeline
 
 ## Parsing
