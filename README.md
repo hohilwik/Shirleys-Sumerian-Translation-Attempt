@@ -16,6 +16,29 @@ The Sumerian Translation Attempt: to collate all existing corpuses and train a m
 
 # Changelog
 
+# 003
+- added dictionaries generated using etcsl transliteration data, with lemma tag as pivot, also tried form tag. Lemma tag is probably more accurate but need to find an expert to figure that out
+- Here is some data on the dictionaries:
+Frequency Table (Lemma tag version):
+
+Words with 1 meanings: 3916 (92.80%)
+Words with 2 meanings: 248 (5.88%)
+Words with 3 meanings: 37 (0.88%)
+Words with 4 meanings: 11 (0.26%)
+Words with 5 meanings: 4 (0.09%)
+Words with 6 meanings: 3 (0.07%)
+Words with 7 meanings: 1 (0.02%)
+
+Frequency Table (Form tag version):
+
+Words with 1 meanings: 32591 (97.84%)
+Words with 2 meanings: 615 (1.85%)
+Words with 3 meanings: 70 (0.21%)
+Words with 4 meanings: 16 (0.05%)
+Words with 5 meanings: 13 (0.04%)
+Words with 6 meanings: 3 (0.01%)
+Words with 7 meanings: 2 (0.01%)
+
 ## 002
 - CDLI data is not cleaned properly. Need to write a custom parser that can deal with that. Will also attempt the suggested method using APIs
 - collating grammar notes for rule-based translation based on books in Readings folder
